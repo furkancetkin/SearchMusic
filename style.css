@@ -1,0 +1,14 @@
+.liste{
+	padding: 1rem;
+	border: 1px solid grey;
+    border-radius: 5px;
+}
+
+.nav-link{
+    border-bottom: 4px solid transparent;
+    transition: 0.7s ease;
+}
+
+.nav-link:hover{
+    border-bottom: 4px solid wheat;
+}
